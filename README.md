@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Suite/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Contract-Suite?style=flat-square&color=yellow" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Suite/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Contract-Suite?style=flat-square&color=yellow" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Suite/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-Contract-Suite?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Suite/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Generative-AI-Contract-Suite?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Suite/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -71,7 +71,7 @@ Rather than a winner-take-all monopoly, the sector exhibits a **bifurcated, mode
 
 *Ranked descending by GitHub Stargazer Count.*
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |:---|:---|:---|
 | **[Mike (Open Legal Products)](https://github.com/open-legal-products/mike)** | [![Stars](https://img.shields.io/github/stars/open-legal-products/mike?style=social&color=white)](https://github.com/open-legal-products/mike/stargazers) | **The leading open-source legal AI platform.** Provides a full-stack legal intelligence workspace for document review, contract clause analysis, and automated workflows designed to run privately on organization hardware. |
 | **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** | [![Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-legal-claude?style=social&color=white)](https://github.com/zubair-trabzada/ai-legal-claude/stargazers) | **Comprehensive AI Legal Assistant skill for Claude Code.** Features 14 skills and 5 parallel agents covering contract review, risk scoring, NDA generation, compliance auditing, negotiation strategy, and executive PDF reporting. |
@@ -95,7 +95,7 @@ Contributions are warmly welcome! Help make this ecosystem more complete:
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive branch: `git checkout -b feature/add-new-legal-tool`.
 3. 📝 Add or edit entries in `README.md` following the existing tabular format and guidelines.
-4. 🔗 Include: Product/Project Name, Official Link, Company Size / Star count, Pricing / Free tier details, and factual descriptions.
+4. 🔗 Include: Product/Project Name, Official Link, Company Size / Stars_Count, Pricing / Free tier details, and factual descriptions.
 5. 🚀 Submit a Pull Request with a clear explanation of the addition.
 
 ---
@@ -127,3 +127,12 @@ If you find this curated legal AI contract suite valuable:
 <p align="center">
   <sub>Made with ❤️ for legal engineers, contract researchers, corporate legal teams, and organizations pioneering autonomous legal infrastructure.</sub>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Generative-AI-Contract-Suite&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Generative-AI-Contract-Suite_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Generative-AI-Contract-Suite_growth.svg">
+  </picture>
+</a>
