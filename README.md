@@ -1,6 +1,6 @@
 # Awesome-Generative-AI-Contract-Suite
 
-# Top Generative AI Contract Suite Ecosystem
+## Top Generative AI Contract Suite Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on AI-Powered Contract Drafting, Review & Self-Hosted Legal Reasoning*  
